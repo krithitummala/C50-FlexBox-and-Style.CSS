@@ -1,0 +1,21 @@
+h1{
+    color:blue;
+}
+*{
+    border:solid;
+}
+
+.header{
+    background-color: aqua;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.grid{
+    display:flex;
+    justify-content:space-evenly;
+}
+p{
+    text-align: center;
+}
